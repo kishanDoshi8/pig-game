@@ -1,5 +1,5 @@
 # pig-game
-A simple game pig you can play with your friend
+A simple game pig game you can play with your friend
 
 Rules:
 - 2 player game
