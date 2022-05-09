@@ -8,5 +8,5 @@ Rules:
 - If a player rolls 1 on the dice he loses all his round score and loses his turn
 - The active player can hold their point from the ROUND score to the MAIN or GLOBAL score and give up their turn.
 - First player to reach 100 (or points to win) on MAIN or GLOBAL points WIN!
-
+aasd
 Good Luck. Have fun!
